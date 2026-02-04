@@ -4,7 +4,7 @@ import { Home, User } from 'lucide-react';
 export default function Header(){
     return(
       <>
-        <div className = "sticky top-0 text-white text-center p-4">
+        <div className = "sticky top-0 text-black text-center p-4">
                 <nav className = "space-x-10">
                     <a 
                       href="/dashboard"
